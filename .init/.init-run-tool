@@ -1,0 +1,4 @@
+{
+    "command": "CI=true PORT=<port> HOST=<host> npm run dev",
+    "working_directory": "/tmp/kavia/workspace/code-generation/hello-world-script-237723-237737/hello_world_backend"
+}
